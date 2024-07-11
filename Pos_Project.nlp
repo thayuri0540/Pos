@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Pos_Project
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2024.2.0
+product.original.version=2024.2.0
+project.is-open-test-settings-after-upload=false
+project.id=4efebf34-c446-42c1-ae3d-1a6772ebdedb
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
